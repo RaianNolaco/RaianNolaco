@@ -1,4 +1,4 @@
-<img src="../hihi.gif">
+<img src="HIHI.gif">
 
 <h1> Opa,Bão? 👋</h1>
 
