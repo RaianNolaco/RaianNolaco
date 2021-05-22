@@ -10,7 +10,7 @@ HI,my name is Raian i'm from Brasil 🇧🇷 (yes brasil with S, Because I am Br
 <status></status>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaianNolaco)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaianNolaco&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaianNolaco&show_icons=true&theme=dracula)
 
 
 
