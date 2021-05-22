@@ -5,6 +5,7 @@ HI,my name is Raian i'm from Brasil
 <a href = "https://www.linkedin.com/in/raian-nolaço-aba20815a/" target="_blank">
 <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width = "30">
 </a>
+<status></status>
 
 <!--
 **RaianNolaco/RaianNolaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
