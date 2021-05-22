@@ -3,7 +3,7 @@
 HI,my name is Raian i'm from Brasil 
 
 <a href = "www.linkedin.com/in/raiannolaço" target = "_blank">
-<img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
+<img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width = "30">
 </a>
 
 <!--
