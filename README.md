@@ -2,7 +2,7 @@
 
 HI,my name is Raian i'm from Brasil 
 
-<a href = "https://www.linkedin.com/in/raian-nolaço-aba20815a/" target = "_blank">
+<a href = "https://www.linkedin.com/in/raian-nolaço-aba20815a/">
 <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width = "30">
 </a>
 
