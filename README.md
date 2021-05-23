@@ -3,6 +3,9 @@
 <h1> Opa,Bão? 👋</h1>
 
 HI,my name is Raian i'm from Brasil 🇧🇷 (yes brasil with S, Because I am Brazilian 😎)
+tenho 18 anos de idade e por hora sou um estudante de programação Web e tenho muito interesse em vários ramos 
+da tecnologia como robótica, eletrônica, machine learning, IA, Data Science, Blockchain e criptomoedas dentre 
+diversas outras ramificações desse maravilhoso mundo da tecnologia.
 
 <a href = "https://www.linkedin.com/in/raian-nolaço-aba20815a/" target="_blank">
 <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width = "30">
