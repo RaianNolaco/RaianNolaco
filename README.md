@@ -18,10 +18,10 @@ e tenho muito interesse em vários ramos da tecnologia como:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaianNolaco&show_icons=true&theme=default) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaianNolaco&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-</center>
+
 <a href = "https://www.linkedin.com/in/raian-nolaço-aba20815a/" target="_blank">
 <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width = "50">
-</a></center>
+</a>
 
 <!--
 **RaianNolaco/RaianNolaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
