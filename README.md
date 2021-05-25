@@ -4,17 +4,15 @@
 
 HI,my name is Raian i'm from Brasil 🇧🇷 (yes brasil with S, Because I am Brazilian 😎) tenho 18 anos de idade<br> sou um estudante de programação
 e tenho muito interesse em vários ramos da tecnologia como:
-*Robótica
-*Eletrônica
-*Machine learning
-*AI
-*Data Science   
-*Blockchain e criptomoedas
-*......(se eu for continuar vamos ter muuuuitos tópicos)
 
-* Item 1
-* Item 2
-* Item 3
+* Robótica
+* Eletrônica
+* Machine learning
+* AI
+* Data Science   
+* Blockchain e criptomoedas
+* ......(se eu for continuar vamos ter muuuuitos tópicos)
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaianNolaco&show_icons=true&theme=default) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaianNolaco&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
