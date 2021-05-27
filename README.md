@@ -15,7 +15,8 @@ e tenho muito interesse em vários ramos da tecnologia como:
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaianNolaco&show_icons=true&theme=default) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaianNolaco&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaianNolaco&show_icons=true&theme=default) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaianNolaco&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
