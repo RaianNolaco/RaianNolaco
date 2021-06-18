@@ -20,8 +20,8 @@ e tenho muito interesse em vários ramos da tecnologia como:
 
 
 
-<a href = "https://www.linkedin.com/in/raian-nolaço-aba20815a/" target="_blank">
-<img target = "_blank" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width = "50">
+<a target = "_blank" href = "https://www.linkedin.com/in/raian-nolaço-aba20815a/" target="_blank">
+<img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width = "50">
 </a>
 
 <!--
