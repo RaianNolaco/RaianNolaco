@@ -2,16 +2,16 @@
 
 <h1> Opa,Bão? 👋</h1>
 
-HI,my name is Raian i'm from Brasil 🇧🇷 (yes brasil with S, Because I am Brazilian 😎) tenho 18 anos de idade<br> sou um estudante de programação
-e tenho muito interesse em vários ramos da tecnologia como:
+HI,my name is Raian i'm from Brasil 🇧🇷 (yes brasil with S, Because I am Brazilian 😎)<br> I am a student of programming
+and I am very interested in various branches of technology like:
 
-* Robótica
-* Eletrônica
-* Machine learning
 * AI
+* Robotics
+* Blockchain
+* Electronics
 * Data Science   
-* Blockchain e criptomoedas
-* ......(se eu for continuar vamos ter muuuuitos tópicos)
+* Machine learning
+* ......(if i continue we will have many, many topics)
 
 
 
