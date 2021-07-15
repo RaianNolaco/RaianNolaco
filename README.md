@@ -24,6 +24,8 @@ and I am very interested in various branches of technology like:
 <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width = "50">
 </a>
 
+<img src ="https://cdn.discordapp.com/attachments/818953098520821832/865054366776033280/unknown.png" width = "50">
+
 <!--
 **RaianNolaco/RaianNolaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
