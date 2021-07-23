@@ -27,7 +27,10 @@ and I am very interested in various branches of technology like:
 * Machine learning
 * ......(if i continue we will have many, many topics)
 
-
+<br>
+<p align = "center">
+ <img height="285em" src="https://activity-graph.herokuapp.com/graph?username=RaianNolaco&theme=xcode">
+</p> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaianNolaco&show_icons=true&theme=default) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaianNolaco&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
