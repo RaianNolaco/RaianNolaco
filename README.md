@@ -27,19 +27,47 @@ and I am very interested in various branches of technology like:
 * Machine learning
 * ......(if i continue we will have many, many topics)
 
+<hr>
+
 <br>
 <p align = "center">
  <img height="285em" src="https://activity-graph.herokuapp.com/graph?username=RaianNolaco&theme=xcode">
 </p> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaianNolaco&show_icons=true&theme=default) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaianNolaco&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<p align = "center">
+ <img height="160em"  src = "https://github-readme-stats.vercel.app/api?username=RaianNolaco&show_icons=true&theme=dark">
+ <img height="160em"  src="https://github-readme-streak-stats.herokuapp.com/?user=RaianNolaco&show_icons=true&locale=en&layout=compact&theme=dark" />
+</p>
+<p align = "center">
+ <img height="220" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RaianNolaco&theme=dark&layout=compact">
+</p> 
 
-<a href = "https://www.linkedin.com/in/raian-nolaço-aba20815a/" target="_blank">
+
+<a href  = "https://www.linkedin.com/in/raian-nolaço-aba20815a/" target="_blank">
 <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width = "50">
 </a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **RaianNolaco/RaianNolaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
