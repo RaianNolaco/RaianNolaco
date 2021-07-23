@@ -12,7 +12,7 @@
 
 </p>
 
-<p aling = center>
+<p aling = "center">
 HI,my name is Raian i'm from Brasil 🇧🇷 (yes brasil with S, Because I am Brazilian 😎)<br> I am a student of programming
 and I am very interested in various branches of technology like:
 </p>
