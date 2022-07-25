@@ -35,10 +35,13 @@ and I am very interested in various branches of technology like:
 </p> 
 
 
+
 <a href  = "https://www.linkedin.com/in/raian-nolaço-aba20815a/" target="_blank">
 <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width = "50">
 </a>
-
+<a href ="https://www.beecrowd.com.br/judge/pt/profile/624691">
+<img src="e077f658776612311527fdb613ba8b54e8e5e92c_2_545x500.png" width = "50">
+</a>
 
 
 
