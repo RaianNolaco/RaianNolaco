@@ -2,16 +2,6 @@
 
 <h1> Opa,Bão? 👋</h1>
 
-<p align="center">
- 
- <img src="https://badges.pufler.dev/visits/RaianNolaco/RaianNolaco"/> 
- <img src="https://komarev.com/ghpvc/?username=RaianNolaco&color=brightgreen"/> 
- <img src="https://badges.pufler.dev/years/RaianNolaco"/>
- <img src="https://badges.pufler.dev/repos/RaianNolaco"/>
- <img src="https://badges.pufler.dev/commits/monthly/RaianNolaco" />
-
-</p>
-
 <p align = "center">
  
 HI,my name is Raian i'm from Brasil 🇧🇷 (yes brasil with S, Because I am Brazilian 😎)<br> I am a student of programming
