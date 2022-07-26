@@ -18,18 +18,17 @@ and I am very interested in various branches of technology like:
 * ......(if i continue we will have many, many topics)
 
 <hr>
-<br>
-<h2>my languages: <h2>
 
-
-<br>
+<h2>My languages: <h2>
+<img height="55"  src="logo_csharp.png">
+<hr>
 
 <p align = "center">
- <img height="160em"  src = "https://github-readme-stats.vercel.app/api?username=RaianNolaco&show_icons=true&theme=dark">
- <img height="160em"  src="https://github-readme-streak-stats.herokuapp.com/?user=RaianNolaco&show_icons=true&locale=en&layout=compact&theme=dark" />
+ <img height="160em" width ="400" src = "https://github-readme-stats.vercel.app/api?username=RaianNolaco&show_icons=true&theme=dark">
+ <img height="160em" width ="400" src="https://github-readme-streak-stats.herokuapp.com/?user=RaianNolaco&show_icons=true&locale=en&layout=compact&theme=dark" />
 </p>
 <p align = "center">
- <img height="220" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RaianNolaco&theme=dark&layout=compact">
+ <img height="240em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RaianNolaco&theme=dark&layout=compact">
 </p> 
 
 <hr>
