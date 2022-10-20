@@ -21,6 +21,7 @@ and I am very interested in various branches of technology like:
 
 <h2>My languages: <h2>
 <img height="55"  src="logo_csharp.png">
+<img height="55"  src="Java-logo.png">
 <hr>
 
 <p align = "center">
